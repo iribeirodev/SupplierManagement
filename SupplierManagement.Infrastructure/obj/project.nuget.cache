@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7zxAGHtC2GmkGikHQ6hzFcI0lcma8oX8qLeuCCiby9c5/yr2+SN3mTQIVl3X5aGvv+VCKXdLCw2Ns/o591ncHQ==",
+  "success": true,
+  "projectFilePath": "/home/itamar/lab/dotnetcore/SupplierManagement/SupplierManagement.Infrastructure/SupplierManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/home/itamar/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/itamar/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

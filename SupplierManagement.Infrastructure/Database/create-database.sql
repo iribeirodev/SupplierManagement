@@ -1,0 +1,2 @@
+CREATE DATABASE SupplierDB COLLATE Latin1_General_CI_AS;
+GO
